@@ -1,0 +1,45 @@
+body {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+}
+
+h1,
+h3,
+p {
+  text-align: center;
+  padding: 15px;
+  font-family: "Poppins", sans-serif;
+}
+.hero {
+  margin-top: 220px;
+}
+a {
+  text-align: center;
+  display: block;
+}
+img{
+  max-height: 70%;
+  margin-top: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[
