@@ -13,10 +13,11 @@ p {
 .hero {
   margin-top: 220px;
 }
-a {
+.domain-link a {
   text-align: center;
   display: block;
 }
+
 img{
   max-height: 70%;
   margin-top: 25px;
