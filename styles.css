@@ -4,43 +4,41 @@ body {
 }
 
 h1,
-h3,
 p {
   text-align: center;
-  padding: 15px;
   font-family: "Poppins", sans-serif;
 }
 .hero {
   margin-top: 220px;
 }
-.domain-link a {
-  text-align: center;
-  display: block;
-}
 
-img{
+.btn-secondary {
+  color: white;
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  text-decoration: none;
+  background: rgb(20, 1, 1);
+  padding: 15px 20px;
+
+  border-radius: 4px;
+}
+.about-photo {
   max-height: 70%;
   margin-top: 25px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[
+.about-link {
+  display: inline;
+}
+h2 {
+  text-align: center;
+}
+@media (max-width: 700px) {
+  .btn-secondary {
+    width: 25%;
+  }
+  .about-photo {
+    max-width: 100%;
+    padding: 0px;
+  }
+}
