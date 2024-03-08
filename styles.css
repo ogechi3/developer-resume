@@ -19,7 +19,7 @@ p {
   padding: 7px;
 }
 .nav-photo {
-  width: 40px;
+  width: 30px;
   border-radius: 30px;
 }
 
@@ -77,9 +77,10 @@ nav li a:hover {
 h2 {
   text-align: center;
 }
+
 .resume {
   padding: 15px 25px;
-  margin-top: 30px;
+
   border: 1px solid aliceblue;
   background: aliceblue;
   color: #b83129;
@@ -143,5 +144,10 @@ h2 {
   }
   .about-content {
     text-align: center;
+    padding: 15px;
+  }
+  .contact-me {
+    padding: 10px 15px;
+    margin-top: 30px;
   }
 }
